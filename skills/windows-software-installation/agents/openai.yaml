@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows 软件安装守则"
+  short_description: "按用户偏好安全下载并安装 Windows 软件与安装包"
+  default_prompt: "Use $windows-software-installation to download and install this Windows software while following my directory and confirmation preferences."
